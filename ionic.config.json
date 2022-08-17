@@ -1,0 +1,7 @@
+{
+  "name": "tab-float-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
